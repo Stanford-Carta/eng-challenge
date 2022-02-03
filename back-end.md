@@ -7,7 +7,7 @@ an brief explanation of any tests (automated or manual) you would run to ensure 
 anything you would like to add if you had more time
 documentation of any known bugs that you did not have time to fix
 
-Please spend 1-2 hours on this exercise.  It is okay if you do not finish in time or if there are bugs in your code, but do the best you can.  We will be looking for readable, well-justified code above all else.  You are welcome to use any language you want to complete the challenge.  When you are done, please email mreinstr@stanford.edu and jwasserman@stanford.edu with a zipped folder containing your code and README.  Feel free to reach out with any questions or clarifications.
+Please spend 1-2 hours on this exercise.  It is okay if you do not finish in time or if there are bugs in your code, but do the best you can.  We will be looking for readable, well-justified code above all else.  You are welcome to use any language you want to complete the challenge.  When you are done, please create a zipped folder containing your code and README and upload it to a shared google drive folder.  Email an access link to the folder to mreinstr@stanford.edu and jwasserman@stanford.edu.  Feel free to reach out with any questions or clarifications.
 
 
 **Blackjack Rules**
