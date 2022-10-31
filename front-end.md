@@ -9,7 +9,8 @@ You are encouraged to also add on one (or more) of the following extensions, how
 - Go crazy with styling
 - Any idea of your own 
 
-You are expected to spend 1-2 hours on this challenge.
+You are expected to spend 1 - 2.5 hours on this challenge.
+If you find yourself spending significantly longer than that, feel free to stop and submit partial progress. Your time is valuable, and we'd much rather see your strengths demonstrated through some progress than see nothing at all.
 
 Functional components using React hooks written in TypeScript are preferred, but not a requirement. 
 

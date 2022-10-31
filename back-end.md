@@ -49,7 +49,7 @@ For instance, if a filtering parameter for `quarters` is included, and the filte
 
 ### Input Data
 
-Course data is provided for you in the `backend-course-data.json` file in this repository. Don't worry about a database or anything; feel free to read from this file into memory, hardcode the data, or otherwise do whatever's easiest to work with this data.
+Course data is provided for you in the [`backend-course-data.json`](https://github.com/Stanford-Carta/eng-challenge/blob/main/backend-course-data.json) file in this repository. Don't worry about a database or anything; feel free to read from this file into memory, hardcode the data, or otherwise do whatever's easiest to work with this data.
 
 That file is a JSON array of course objects. The course objects have the following fields:
 - `id`: Unique integer ID
@@ -104,6 +104,6 @@ If you don't finish in the projected time range, it's okay to stop and submit wh
   - Rationale for the above design decisions ("I thought it would be easiest to get working quickly" or "I'm most comfortable with it" are valid contributing reasons), and notable tradeoffs.
   - (Optional) Anything else you'd like us to know about your project, or feedback on the challenge
 
-Please email your deliverables to Glen (ghusman@stanford.edu) and Jared (jwasserman@stanford.edu) (Google Drive, ZIP file, private GitHub repository are all okay). Our GitHub usernames are @glen3b and @jwass91.
+Deliverables should be submitted as specified in the [eng-challenge README](https://github.com/Stanford-Carta/eng-challenge/blob/main/README.md).
 
 Good luck, thank you for considering joining Carta, and we hope to hear from you soon!
