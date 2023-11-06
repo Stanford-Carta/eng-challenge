@@ -17,7 +17,7 @@ If you've spent longer than the expected time for a challenge and are not finish
 
 ## Submission
 
-Please email your deliverables to Glen (ghusman@stanford.edu) and Jared (jwasserman@stanford.edu) (Google Drive, ZIP file, private GitHub repository are all okay). Our GitHub usernames are @glen3b and @jwass91.
+Please email your deliverables to Manas (mkhadka@stanford.edu) and Hannah (hhannah@stanford.edu) (Google Drive, ZIP file, private GitHub repository are all okay). Our GitHub usernames are @manaskhadka and @hannahxlee.
 
 The challenges are deliberately open-ended and leave you room for judgment. That said, if you have questions, please reach out to those email addresses!
 
