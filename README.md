@@ -35,10 +35,17 @@ Pick the 2 or 3 decisions that mattered most. For each one, tell us what you wen
 
 It's also really helpful to hear about anything you changed your mind on halfway through, or the part of your design you're least happy with.
 
-Some notes on writing this up:
+You can share your design decisions in one of two ways:
+
+- **Video walkthrough (preferred):** Record a short video (around 5–10 minutes is plenty) where you demo what you built, walk us through your code, and explain your key design decisions. **Please share your whole screen**, not just a single window or tab, so we can follow along as you move between your app, editor, and terminal. A Zoom recording or any unlisted video link is fine.
+- **Written writeup:** Include your design decisions in your README.
+
+We strongly recommend the video since it's often faster for you and gives us a clearer picture of how you think.
+
+Some notes either way:
 
 - Feel free to use AI, for the code or for the decisions. Just let us know where it helped. For example: "Claude suggested putting the filtering logic in the API, but I kept it in the frontend because there are only 15 courses."
-- Please write it in your own words. Rough notes or bullet points are totally fine, we don't need anything polished.
+- Please explain it in your own words. Rough notes, bullet points, or an unscripted video are totally fine, we don't need anything polished.
 - If we move forward, we'll go through your code and these decisions with you on a call.
 - If you want some background reading, here are some we like:
   - Frontend: [Thinking in React](https://react.dev/learn/thinking-in-react) from the React docs
@@ -68,7 +75,7 @@ Use any language, framework, or database you like. We have no preference. For re
   - Instructions to install and run the program
   - The feature you built, and why you picked it
   - Which focus you chose (frontend or backend), and why
-  - Your **design decisions** (see above)
+  - Your **design decisions** (see above), or a link to your video walkthrough
   - How you used AI, if at all
   - Any synthetic data you created, and how you created it
   - Roughly how long you spent, and what you'd do next with more time
